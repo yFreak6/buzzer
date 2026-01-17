@@ -1,0 +1,5 @@
+
+{
+  "name": "Global Buzzer System",
+  "description": "A real-time synchronized buzzer application with nickname enforcement and a secure admin panel for resets and sound management."
+}
